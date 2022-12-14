@@ -1,6 +1,6 @@
 # Robustness of Neural Rankers to Typos: A Comparative Study
 
-This is the repo for the experiment of the effect of typos on the SOTA sparse retriever uniCOIL, including the original juypter notebook and the tree structure of the files for reproducibility. This research has been published in the paper: TBA
+This is the repo for the experiment of the effect of typos on the SOTA sparse retriever uniCOIL, including the original juypter notebook and the tree structure of the files for reproducibility. This research has been published in the paper: [*Robustness of Neural Rankers to Typos: A Comparative Study*](https://ielab.io/publications/adcs2022-typos/adcs2022-comparative-study.pdf)
 
 # Environment
 The original experiment was conducted on **Google Colab**, with default Python version 3.7, however the main library we used **Pyserini** requires for a higher version such as **Python 3.8**, we have tuned the platform to meet that requirement. The corresponding code for tuning the environment can be found on the **Python3.8 env** and the **Conda** (elective) part of the *typos_unicoil.ipynb* file.
